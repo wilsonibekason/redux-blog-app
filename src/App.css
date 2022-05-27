@@ -8,12 +8,12 @@ body,
   margin: 0;
 }
 
-.main-container {
+/* .main-container {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418)),
     url("./image/bg-image.jpg");
   background-size: cover;
   background-position: center;
-}
+} */
 
 .main-container {
   height: 100%;
